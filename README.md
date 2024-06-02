@@ -63,9 +63,8 @@ task_app/
 ├── android/                     # Android specific configuration
 ├── ios/                         # iOS specific configuration
 ├── lib/
-│   ├── bloc/                    # Bloc state management files
+│   ├── Providers/                    # Bloc state management files & Firestore interaction
 │   ├── models/                  # Task model
-│   ├── repository/              # Firestore interaction
 │   ├── task_manager_screen.dart # Main screen
 │   └── main.dart                # Entry point of the application
 ├── test/                        # Unit and widget tests
