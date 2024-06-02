@@ -22,7 +22,7 @@ This is a Flutter-based task management application with Firebase Firestore inte
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/task_app.git
+    git clone https://github.com/Moaaz-Ahmad/task_app.git
     cd task_app
     ```
 
