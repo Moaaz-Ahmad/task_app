@@ -63,7 +63,7 @@ task_app/
 ├── android/                     # Android specific configuration
 ├── ios/                         # iOS specific configuration
 ├── lib/
-│   ├── Providers/                    # Bloc state management files & Firestore interaction
+│   ├── Providers/               # Bloc state management files & Firestore interaction
 │   ├── models/                  # Task model
 │   ├── screens/                 # SCreens folder which includes main screen
 │   └── main.dart                # Entry point of the application
