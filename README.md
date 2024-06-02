@@ -65,7 +65,7 @@ task_app/
 ├── lib/
 │   ├── Providers/                    # Bloc state management files & Firestore interaction
 │   ├── models/                  # Task model
-│   ├── task_manager_screen.dart # Main screen
+│   ├── screens/                 # SCreens folder which includes main screen
 │   └── main.dart                # Entry point of the application
 ├── test/                        # Unit and widget tests
 ├── pubspec.yaml                 # Project dependencies
